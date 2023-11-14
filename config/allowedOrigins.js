@@ -4,4 +4,5 @@ const allowedOrigins = [
     'https://dandrepairshop.com'
 ]
 
-module.exports = allowedOriginsnm
+module.exports = allowedOrigins
+
